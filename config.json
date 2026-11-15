@@ -10,6 +10,6 @@
     "treasury_auction": false,
     "jobless_claims": true,
     "consumer_confidence": true,
-    "options_expiration": true
+    "options_expiration": false
   }
 }
