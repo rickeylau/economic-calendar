@@ -1,0 +1,54 @@
+
+name: Update Economic Calendar
+
+on:
+  schedule:
+    - cron: '37 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'config.json'
+      - 'filter_calendar.py'
+      - 'test_filter_calendar.py'
+      - '.github/workflows/update-calendar.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: economic-calendar-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Test filters
+        run: python -m unittest -v
+
+      - name: Generate filtered calendar
+        run: python filter_calendar.py
+
+      - name: Publish calendar
+        run: |
+          set -eu
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add economic.ics
+          if git diff --cached --quiet; then
+            echo 'No calendar changes.'
+            exit 0
+          fi
+          git commit -m 'Update filtered economic calendar'
+          git push origin main
