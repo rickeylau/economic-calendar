@@ -109,23 +109,6 @@ TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/180
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20261120T210000Z
-DTEND:20261120T213000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2026-11@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2026-11-20\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDP (Second Estimate)
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
@@ -363,24 +346,6 @@ TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/180
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quad Witching
-DTSTART:20261218T210000Z
-DTEND:20261218T213000Z
-DTSTAMP:20261108T180824Z
-UID:quad-witching-2026-12@compasseconomiccalendar.github.io
-CATEGORIES:quad_witching,impact-high
-DESCRIPTION:Index futures\, index options\, single-stock options and singl
- e-stock futures all expire. Expect elevated volume all session and a large
-  closing auction.\n\nMarket impact: HIGH\nScheduled: 16:00 ET on 2026-12-1
- 8\n\nVerify: https://www.cmegroup.com/trading/equity-index/rolldates.html\
- n\nFor informational and educational purposes only. Not investment advice.
-  Times are subject to change\; verify against official sources before trad
- ing.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GDP (Third Estimate)
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
@@ -500,23 +465,6 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20270115T210000Z
-DTEND:20270115T213000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-01@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-01-15\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270201T150000Z
 DTEND:20270201T153000Z
@@ -556,23 +504,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20270219T210000Z
-DTEND:20270219T213000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-02@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-02-19\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
@@ -616,24 +547,6 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quad Witching
-DTSTART:20270319T200000Z
-DTEND:20270319T203000Z
-DTSTAMP:20261108T180824Z
-UID:quad-witching-2027-03@compasseconomiccalendar.github.io
-CATEGORIES:quad_witching,impact-high
-DESCRIPTION:Index futures\, index options\, single-stock options and singl
- e-stock futures all expire. Expect elevated volume all session and a large
-  closing auction.\n\nMarket impact: HIGH\nScheduled: 16:00 ET on 2027-03-1
- 9\n\nVerify: https://www.cmegroup.com/trading/equity-index/rolldates.html\
- n\nFor informational and educational purposes only. Not investment advice.
-  Times are subject to change\; verify against official sources before trad
- ing.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270401T140000Z
 DTEND:20270401T143000Z
@@ -673,23 +586,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20270416T200000Z
-DTEND:20270416T203000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-04@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-04-16\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
@@ -733,23 +629,6 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20270521T200000Z
-DTEND:20270521T203000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-05@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-05-21\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270601T140000Z
 DTEND:20270601T143000Z
@@ -789,24 +668,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quad Witching
-DTSTART:20270618T200000Z
-DTEND:20270618T203000Z
-DTSTAMP:20261108T180824Z
-UID:quad-witching-2027-06@compasseconomiccalendar.github.io
-CATEGORIES:quad_witching,impact-high
-DESCRIPTION:Index futures\, index options\, single-stock options and singl
- e-stock futures all expire. Expect elevated volume all session and a large
-  closing auction.\n\nMarket impact: HIGH\nScheduled: 16:00 ET on 2027-06-1
- 8\n\nVerify: https://www.cmegroup.com/trading/equity-index/rolldates.html\
- n\nFor informational and educational purposes only. Not investment advice.
-  Times are subject to change\; verify against official sources before trad
- ing.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
@@ -850,23 +711,6 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20270716T200000Z
-DTEND:20270716T203000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-07@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-07-16\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270802T140000Z
 DTEND:20270802T143000Z
@@ -906,23 +750,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20270820T200000Z
-DTEND:20270820T203000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-08@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-08-20\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
@@ -966,24 +793,6 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quad Witching
-DTSTART:20270917T200000Z
-DTEND:20270917T203000Z
-DTSTAMP:20261108T180824Z
-UID:quad-witching-2027-09@compasseconomiccalendar.github.io
-CATEGORIES:quad_witching,impact-high
-DESCRIPTION:Index futures\, index options\, single-stock options and singl
- e-stock futures all expire. Expect elevated volume all session and a large
-  closing auction.\n\nMarket impact: HIGH\nScheduled: 16:00 ET on 2027-09-1
- 7\n\nVerify: https://www.cmegroup.com/trading/equity-index/rolldates.html\
- n\nFor informational and educational purposes only. Not investment advice.
-  Times are subject to change\; verify against official sources before trad
- ing.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20271001T140000Z
 DTEND:20271001T143000Z
@@ -1025,23 +834,6 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20271015T200000Z
-DTEND:20271015T203000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-10@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-10-15\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20271101T140000Z
 DTEND:20271101T143000Z
@@ -1081,23 +873,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/is
  m-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly Options Expiration (OPEX)
-DTSTART:20271119T210000Z
-DTEND:20271119T213000Z
-DTSTAMP:20261108T180824Z
-UID:monthly-opex-2027-11@compasseconomiccalendar.github.io
-CATEGORIES:monthly_opex,impact-medium
-DESCRIPTION:Monthly equity and index options expire on the third Friday. D
- ealer hedging into the expiry can pin price near large open-interest strik
- es.\n\nMarket impact: MEDIUM\nScheduled: 16:00 ET on 2027-11-19\n\nVerify:
-  https://www.cmegroup.com/trading/equity-index/rolldates.html\n\nFor infor
- mational and educational purposes only. Not investment advice. Times are s
- ubject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cmegroup.com/trading/equity-index/rolldates.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
