@@ -1,0 +1,15 @@
+{
+  "source_url": "https://compasseconomiccalendar.github.io/compass_calendar.ics",
+  "calendar_name": "Economic Calendar",
+  "output": "economic.ics",
+  "keep": {
+    "inflation": true,
+    "employment": true,
+    "gdp_retail": true,
+    "ism_pmi": true,
+    "treasury_auction": true,
+    "jobless_claims": true,
+    "consumer_confidence": true,
+    "options_expiration": true
+  }
+}
