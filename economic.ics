@@ -11,68 +11,10 @@ X-WR-CALDESC:Filtered US economic and options events. Source: https://compa
  sseconomiccalendar.github.io/compass_calendar.ics. Verify release times wi
  th official sources.
 BEGIN:VEVENT
-SUMMARY:Consumer Price Index (CPI)
-DTSTART:20261110T133000Z
-DTEND:20261110T140000Z
-DTSTAMP:20261108T180824Z
-UID:fred-cpi-2026-11-10@compasseconomiccalendar.github.io
-CATEGORIES:macro_release_cpi,impact-high
-DESCRIPTION:Headline and core consumer inflation from the BLS. The core mo
- nth-over-month print drives the immediate rates and equity reaction.\n\nMa
- rket impact: HIGH\nScheduled: 08:30 ET on 2026-11-10\n\nVerify: https://fr
- ed.stlouisfed.org/releases/10\nPrimary source: https://www.bls.gov/schedul
- e/news_release/cpi.htm\n\nThis product uses the FRED® API but is not endo
- rsed or certified by the Federal Reserve Bank of St. Louis.\n\nFor informa
- tional and educational purposes only. Not investment advice. Times are sub
- ject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://fred.stlouisfed.org/releases/10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Initial Jobless Claims
-DTSTART:20261112T133000Z
-DTEND:20261112T140000Z
-DTSTAMP:20261108T180824Z
-UID:fred-jobless-claims-2026-11-12@compasseconomiccalendar.github.io
-CATEGORIES:macro_release_jobless_claims,impact-medium
-DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
- very Thursday at 8:30am ET. The highest-frequency read on the labour marke
- t\; the four-week average is what traders watch for a trend.\n\nMarket imp
- act: MEDIUM\nScheduled: 08:30 ET on 2026-11-12\n\nVerify: https://fred.stl
- ouisfed.org/releases/180\nPrimary source: https://www.dol.gov/ui/data.pdf\
- n\nThis product uses the FRED® API but is not endorsed or certified by th
- e Federal Reserve Bank of St. Louis.\n\nFor informational and educational 
- purposes only. Not investment advice. Times are subject to change\; verify
-  against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://fred.stlouisfed.org/releases/180
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Producer Price Index (PPI)
-DTSTART:20261113T133000Z
-DTEND:20261113T140000Z
-DTSTAMP:20261108T180824Z
-UID:fred-ppi-2026-11-13@compasseconomiccalendar.github.io
-CATEGORIES:macro_release_ppi,impact-medium
-DESCRIPTION:Wholesale/producer inflation from the BLS. Watched as a lead-i
- n to CPI and for the PPI components that feed the PCE calculation.\n\nMark
- et impact: MEDIUM\nScheduled: 08:30 ET on 2026-11-13\n\nVerify: https://fr
- ed.stlouisfed.org/releases/46\nPrimary source: https://www.bls.gov/schedul
- e/news_release/ppi.htm\n\nThis product uses the FRED® API but is not endo
- rsed or certified by the Federal Reserve Bank of St. Louis.\n\nFor informa
- tional and educational purposes only. Not investment advice. Times are sub
- ject to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://fred.stlouisfed.org/releases/46
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Retail Sales (Advance)
 DTSTART:20261117T133000Z
 DTEND:20261117T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-retail-sales-2026-11-17@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_retail_sales,impact-high
 DESCRIPTION:Census Bureau advance estimate of monthly retail and food serv
@@ -92,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261119T133000Z
 DTEND:20261119T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-11-19@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -112,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:GDP (Second Estimate)
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-gdp-2026-11-25@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_gdp,impact-medium
 DESCRIPTION:Second estimate of quarterly GDP\, incorporating more complete
@@ -131,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-11-25@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -151,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Personal Income & Outlays (PCE)
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-pce-2026-11-25@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_pce,impact-high
 DESCRIPTION:BEA report containing core PCE\, the Fed's preferred inflation
@@ -170,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20261201T150000Z
 DTEND:20261201T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2026-12-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -190,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261203T133000Z
 DTEND:20261203T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-12-03@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -210,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20261203T150000Z
 DTEND:20261203T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2026-12-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -231,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Employment Situation (Nonfarm Payrolls)
 DTSTART:20261204T133000Z
 DTEND:20261204T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-employment-situation-2026-12-04@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_employment_situation,impact-high
 DESCRIPTION:Monthly jobs report from the BLS: nonfarm payrolls\, unemploym
@@ -251,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Consumer Price Index (CPI)
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-cpi-2026-12-10@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_cpi,impact-high
 DESCRIPTION:Headline and core consumer inflation from the BLS. The core mo
@@ -270,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-12-10@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -290,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Producer Price Index (PPI)
 DTSTART:20261215T133000Z
 DTEND:20261215T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-ppi-2026-12-15@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_ppi,impact-medium
 DESCRIPTION:Wholesale/producer inflation from the BLS. Watched as a lead-i
@@ -309,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Retail Sales (Advance)
 DTSTART:20261216T133000Z
 DTEND:20261216T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-retail-sales-2026-12-16@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_retail_sales,impact-high
 DESCRIPTION:Census Bureau advance estimate of monthly retail and food serv
@@ -329,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261217T133000Z
 DTEND:20261217T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-12-17@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -349,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:GDP (Third Estimate)
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-gdp-2026-12-23@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_gdp,impact-low
 DESCRIPTION:Third estimate of quarterly GDP. The quarter is three months s
@@ -368,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Personal Income & Outlays (PCE)
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-pce-2026-12-23@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_pce,impact-high
 DESCRIPTION:BEA report containing core PCE\, the Fed's preferred inflation
@@ -387,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261224T133000Z
 DTEND:20261224T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-12-24@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -407,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261231T133000Z
 DTEND:20261231T140000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:fred-jobless-claims-2026-12-31@compasseconomiccalendar.github.io
 CATEGORIES:macro_release_jobless_claims,impact-medium
 DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
@@ -427,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270104T150000Z
 DTEND:20270104T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-01-04@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -447,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270106T150000Z
 DTEND:20270106T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-01-06@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -468,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270201T150000Z
 DTEND:20270201T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-02-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -488,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270203T150000Z
 DTEND:20270203T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-02-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -509,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270301T150000Z
 DTEND:20270301T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-03-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -529,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270303T150000Z
 DTEND:20270303T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-03-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -550,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270401T140000Z
 DTEND:20270401T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-04-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -570,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270405T140000Z
 DTEND:20270405T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-04-05@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -591,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270503T140000Z
 DTEND:20270503T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-05-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -611,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270505T140000Z
 DTEND:20270505T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-05-05@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -632,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270601T140000Z
 DTEND:20270601T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-06-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -652,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270603T140000Z
 DTEND:20270603T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-06-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -673,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270701T140000Z
 DTEND:20270701T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-07-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -693,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270706T140000Z
 DTEND:20270706T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-07-06@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -714,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270802T140000Z
 DTEND:20270802T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-08-02@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -734,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270804T140000Z
 DTEND:20270804T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-08-04@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -755,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20270901T140000Z
 DTEND:20270901T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-09-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -775,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20270903T140000Z
 DTEND:20270903T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-09-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -796,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20271001T140000Z
 DTEND:20271001T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-10-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -816,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20271005T140000Z
 DTEND:20271005T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-10-05@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -837,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20271101T140000Z
 DTEND:20271101T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-11-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -857,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20271103T140000Z
 DTEND:20271103T143000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-11-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
@@ -878,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Manufacturing PMI (estimated)
 DTSTART:20271201T150000Z
 DTEND:20271201T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-manufacturing-pmi-2027-12-01@compasseconomiccalendar.github.io
 CATEGORIES:ism_manufacturing_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for manufacturing\, normally releas
@@ -898,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:ISM Services PMI (estimated)
 DTSTART:20271203T150000Z
 DTEND:20271203T153000Z
-DTSTAMP:20261108T180824Z
+DTSTAMP:20261115T191027Z
 UID:ism-services-pmi-2027-12-03@compasseconomiccalendar.github.io
 CATEGORIES:ism_services_pmi,impact-high
 DESCRIPTION:Purchasing managers' index for services\, normally released on
