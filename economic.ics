@@ -11,82 +11,6 @@ X-WR-CALDESC:Filtered US economic and options events. Source: https://compa
  sseconomiccalendar.github.io/compass_calendar.ics. Verify release times wi
  th official sources.
 BEGIN:VEVENT
-SUMMARY:Treasury Auction: 26-Week Bill
-DTSTART:20261109T163000Z
-DTEND:20261109T170000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797UX3-2026-11-09@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 26-Week Bill closes at 11:30 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: LOW\nScheduled: 11:30 ET on 2
- 026-11-09\nSecurity: 26-Week Bill\nCUSIP: 912797UX3\n\nVerify: https://www
- .treasurydirect.gov/auctions/announcements-data-results/\n\nFor informatio
- nal and educational purposes only. Not investment advice. Times are subjec
- t to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 13-Week Bill
-DTSTART:20261109T163000Z
-DTEND:20261109T170000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797WB9-2026-11-09@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 13-Week Bill closes at 11:30 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: LOW\nScheduled: 11:30 ET on 2
- 026-11-09\nSecurity: 13-Week Bill\nCUSIP: 912797WB9\n\nVerify: https://www
- .treasurydirect.gov/auctions/announcements-data-results/\n\nFor informatio
- nal and educational purposes only. Not investment advice. Times are subjec
- t to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 6-Week Bill
-DTSTART:20261109T180000Z
-DTEND:20261109T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797TC1-2026-11-09@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 6-Week Bill closes at 13:00 ET. A 
- weak auction (low bid-to-cover\, high tail) pushes yields up and typically
-  pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 20
- 26-11-09\nSecurity: 6-Week Bill\nCUSIP: 912797TC1\n\nVerify: https://www.t
- reasurydirect.gov/auctions/announcements-data-results/\n\nFor informationa
- l and educational purposes only. Not investment advice. Times are subject 
- to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 3-Year Note
-DTSTART:20261109T180000Z
-DTEND:20261109T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-91282CRW3-2026-11-09@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-medium
-DESCRIPTION:Competitive bidding for the 3-Year Note closes at 13:00 ET. A 
- weak auction (low bid-to-cover\, high tail) pushes yields up and typically
-  pressures index futures.\n\nMarket impact: MEDIUM\nScheduled: 13:00 ET on
-  2026-11-09\nSecurity: 3-Year Note\nCUSIP: 91282CRW3\n\nVerify: https://ww
- w.treasurydirect.gov/auctions/announcements-data-results/\n\nFor informati
- onal and educational purposes only. Not investment advice. Times are subje
- ct to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Consumer Price Index (CPI)
 DTSTART:20261110T133000Z
 DTEND:20261110T140000Z
@@ -104,25 +28,6 @@ DESCRIPTION:Headline and core consumer inflation from the BLS. The core mo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 10-Year Note
-DTSTART:20261110T180000Z
-DTEND:20261110T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-91282CRX1-2026-11-10@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-high
-DESCRIPTION:Competitive bidding for the 10-Year Note closes at 13:00 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: HIGH\nScheduled: 13:00 ET on 
- 2026-11-10\nSecurity: 10-Year Note\nCUSIP: 91282CRX1\n\nVerify: https://ww
- w.treasurydirect.gov/auctions/announcements-data-results/\n\nFor informati
- onal and educational purposes only. Not investment advice. Times are subje
- ct to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
@@ -145,82 +50,6 @@ TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/180
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Treasury Auction: 4-Week Bill
-DTSTART:20261112T180000Z
-DTEND:20261112T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797WF0-2026-11-12@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 4-Week Bill closes at 13:00 ET. A 
- weak auction (low bid-to-cover\, high tail) pushes yields up and typically
-  pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 20
- 26-11-12\nSecurity: 4-Week Bill\nCUSIP: 912797WF0\n\nVerify: https://www.t
- reasurydirect.gov/auctions/announcements-data-results/\n\nFor informationa
- l and educational purposes only. Not investment advice. Times are subject 
- to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 8-Week Bill
-DTSTART:20261112T180000Z
-DTEND:20261112T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797WP8-2026-11-12@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 8-Week Bill closes at 13:00 ET. A 
- weak auction (low bid-to-cover\, high tail) pushes yields up and typically
-  pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 20
- 26-11-12\nSecurity: 8-Week Bill\nCUSIP: 912797WP8\n\nVerify: https://www.t
- reasurydirect.gov/auctions/announcements-data-results/\n\nFor informationa
- l and educational purposes only. Not investment advice. Times are subject 
- to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 17-Week Bill
-DTSTART:20261112T180000Z
-DTEND:20261112T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797XH5-2026-11-12@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 17-Week Bill closes at 13:00 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 2
- 026-11-12\nSecurity: 17-Week Bill\nCUSIP: 912797XH5\n\nVerify: https://www
- .treasurydirect.gov/auctions/announcements-data-results/\n\nFor informatio
- nal and educational purposes only. Not investment advice. Times are subjec
- t to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 30-Year Bond
-DTSTART:20261112T180000Z
-DTEND:20261112T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912810UY2-2026-11-12@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-high
-DESCRIPTION:Competitive bidding for the 30-Year Bond closes at 13:00 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: HIGH\nScheduled: 13:00 ET on 
- 2026-11-12\nSecurity: 30-Year Bond\nCUSIP: 912810UY2\n\nVerify: https://ww
- w.treasurydirect.gov/auctions/announcements-data-results/\n\nFor informati
- onal and educational purposes only. Not investment advice. Times are subje
- ct to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Producer Price Index (PPI)
 DTSTART:20261113T133000Z
 DTEND:20261113T140000Z
@@ -238,44 +67,6 @@ DESCRIPTION:Wholesale/producer inflation from the BLS. Watched as a lead-i
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/46
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 13-Week Bill
-DTSTART:20261116T180000Z
-DTEND:20261116T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797TV9-2026-11-16@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 13-Week Bill closes at 13:00 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 2
- 026-11-16\nSecurity: 13-Week Bill\nCUSIP: 912797TV9\n\nVerify: https://www
- .treasurydirect.gov/auctions/announcements-data-results/\n\nFor informatio
- nal and educational purposes only. Not investment advice. Times are subjec
- t to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 26-Week Bill
-DTSTART:20261116T180000Z
-DTEND:20261116T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797XD4-2026-11-16@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 26-Week Bill closes at 13:00 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 2
- 026-11-16\nSecurity: 26-Week Bill\nCUSIP: 912797XD4\n\nVerify: https://www
- .treasurydirect.gov/auctions/announcements-data-results/\n\nFor informatio
- nal and educational purposes only. Not investment advice. Times are subjec
- t to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Retail Sales (Advance)
@@ -298,44 +89,6 @@ TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Treasury Auction: 6-Week Bill
-DTSTART:20261117T180000Z
-DTEND:20261117T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912797VJ3-2026-11-17@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-low
-DESCRIPTION:Competitive bidding for the 6-Week Bill closes at 13:00 ET. A 
- weak auction (low bid-to-cover\, high tail) pushes yields up and typically
-  pressures index futures.\n\nMarket impact: LOW\nScheduled: 13:00 ET on 20
- 26-11-17\nSecurity: 6-Week Bill\nCUSIP: 912797VJ3\n\nVerify: https://www.t
- reasurydirect.gov/auctions/announcements-data-results/\n\nFor informationa
- l and educational purposes only. Not investment advice. Times are subject 
- to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 20-Year Bond
-DTSTART:20261118T180000Z
-DTEND:20261118T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-912810UZ9-2026-11-18@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-high
-DESCRIPTION:Competitive bidding for the 20-Year Bond closes at 13:00 ET. A
-  weak auction (low bid-to-cover\, high tail) pushes yields up and typicall
- y pressures index futures.\n\nMarket impact: HIGH\nScheduled: 13:00 ET on 
- 2026-11-18\nSecurity: 20-Year Bond\nCUSIP: 912810UZ9\n\nVerify: https://ww
- w.treasurydirect.gov/auctions/announcements-data-results/\n\nFor informati
- onal and educational purposes only. Not investment advice. Times are subje
- ct to change\; verify against official sources before trading.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Initial Jobless Claims
 DTSTART:20261119T133000Z
 DTEND:20261119T140000Z
@@ -354,26 +107,6 @@ DESCRIPTION:Weekly initial and continuing unemployment claims\, released e
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fred.stlouisfed.org/releases/180
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasury Auction: 9-Year 8-Month Note
-DTSTART:20261119T180000Z
-DTEND:20261119T183000Z
-DTSTAMP:20261108T180824Z
-UID:treasury-auction-91282CRE3-2026-11-19@compasseconomiccalendar.github.i
- o
-CATEGORIES:treasury_auction,impact-medium
-DESCRIPTION:Competitive bidding for the 9-Year 8-Month Note closes at 13:0
- 0 ET. A weak auction (low bid-to-cover\, high tail) pushes yields up and t
- ypically pressures index futures.\n\nMarket impact: MEDIUM\nScheduled: 13:
- 00 ET on 2026-11-19\nSecurity: 9-Year 8-Month Note\nCUSIP: 91282CRE3\n\nVe
- rify: https://www.treasurydirect.gov/auctions/announcements-data-results/\
- n\nFor informational and educational purposes only. Not investment advice.
-  Times are subject to change\; verify against official sources before trad
- ing.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.treasurydirect.gov/auctions/announcements-data-results/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly Options Expiration (OPEX)
